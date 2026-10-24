@@ -114,6 +114,11 @@
      "UN News",
      "https://news.un.org"
     ]
+   ],
+   "tema": [
+    "#ed1c27",
+    "#024fa2",
+    "#e8ecf4"
    ]
   },
   {
@@ -200,6 +205,11 @@
      "OHCHR",
      "https://www.ohchr.org"
     ]
+   ],
+   "tema": [
+    "#fecb00",
+    "#34b233",
+    "#ea2839"
    ]
   },
   {
@@ -243,6 +253,11 @@
      "OHCHR",
      "https://www.ohchr.org"
     ]
+   ],
+   "tema": [
+    "#d32011",
+    "#007a36",
+    "#e5e5e5"
    ]
   },
   {
@@ -295,6 +310,11 @@
      "ReliefWeb",
      "https://reliefweb.int"
     ]
+   ],
+   "tema": [
+    "#01411c",
+    "#d32011",
+    "#e5e5e5"
    ]
   },
   {
@@ -335,6 +355,11 @@
      "UCDP",
      "https://ucdp.uu.se"
     ]
+   ],
+   "tema": [
+    "#1faa59",
+    "#0b6b3a",
+    "#e8f5ec"
    ]
   },
   {
@@ -391,6 +416,11 @@
      "UN News",
      "https://news.un.org"
     ]
+   ],
+   "tema": [
+    "#ff9933",
+    "#138808",
+    "#2d6cdf"
    ]
   },
   {
@@ -434,6 +464,11 @@
      "ICRC",
      "https://www.icrc.org"
     ]
+   ],
+   "tema": [
+    "#a51931",
+    "#2d63c8",
+    "#f4f5f8"
    ]
   },
   {
@@ -470,6 +505,11 @@
      "CFR Tracker",
      "https://www.cfr.org/global-conflict-tracker"
     ]
+   ],
+   "tema": [
+    "#fe0000",
+    "#2f5cd6",
+    "#f1f3f8"
    ]
   },
   {
@@ -509,6 +549,11 @@
      "CFR Tracker",
      "https://www.cfr.org/global-conflict-tracker"
     ]
+   ],
+   "tema": [
+    "#0aa6c9",
+    "#0c4a8a",
+    "#f5c542"
    ]
   },
   {
@@ -552,6 +597,11 @@
      "ICRC",
      "https://www.icrc.org"
     ]
+   ],
+   "tema": [
+    "#ce1126",
+    "#009736",
+    "#d9d9d9"
    ]
   },
   {
@@ -591,6 +641,11 @@
      "Geneva Academy",
      "https://www.geneva-academy.ch"
     ]
+   ],
+   "tema": [
+    "#239f40",
+    "#da0000",
+    "#e8f2ea"
    ]
   }
  ]
