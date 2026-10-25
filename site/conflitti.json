@@ -35,11 +35,26 @@
    ],
    "attori": "Corea del Nord (Kim Jong Un) · Corea del Sud · USA · Russia · Cina · Giappone",
    "retroscena": [
-    "Tecnicamente la guerra di Corea non si è mai conclusa: c’è solo un armistizio del 1953, non un trattato di pace.",
-    "Il 23 settembre l’Ucraina ha annunciato il trasferimento in Corea del Sud di due soldati nordcoreani catturati mentre combattevano per la Russia: un caso diplomatico raro, perché per Seul sono cittadini coreani.",
-    "Il 14 ottobre gli USA hanno colpito una rete che dirottava verso Pyongyang i guadagni di lavoratori IT: il cyber-lavoro è una fonte di valuta estera sotto sanzioni.",
-    "L’8 settembre si è aperto il primo ponte stradale Russia–Corea del Nord e il 15 ottobre quello con la Cina: l’isolamento economico si sta erodendo.",
-    "Il 17 ottobre la KCNA ha annunciato un test di siluro con intelligenza artificiale (dato dichiarato dal regime, non verificato)."
+    [
+     "Soldati nordcoreani in una guerra europea.",
+     "Dalla fine del 2024 migliaia di militari nordcoreani sono stati inviati in Russia, nella regione di Kursk, dopo il trattato di mutua assistenza firmato a giugno 2024. Pyongyang ha ammesso la presenza delle truppe solo nell’aprile 2025. In cambio, secondo Seul e i servizi occidentali, riceve petrolio, cibo e tecnologia militare."
+    ],
+    [
+     "I controlli ONU sono finiti.",
+     "Il gruppo di esperti che monitorava le sanzioni è stato chiuso ad aprile 2024 dopo il veto russo. Da allora il rispetto delle sanzioni è molto più difficile da verificare."
+    ],
+    [
+     "Il denaro arriva dalla rete.",
+     "Gli Stati Uniti accusano Pyongyang di far lavorare all’estero informatici sotto falsa identità e di rubare criptovalute: l’FBI ha attribuito al regime il furto da circa 1,5 miliardi di dollari alla piattaforma Bybit nel 2025. Sono entrate fondamentali per l’economia sotto sanzioni."
+    ],
+    [
+     "I campi esistono.",
+     "Le stime sui prigionieri politici variano da circa 80.000 a 200.000 persone. La Commissione d’inchiesta ONU del 2014 ha parlato di crimini contro l’umanità. Il regime nega tutto e definisce i testimoni dei truffatori."
+    ],
+    [
+     "Il paradosso del ponte.",
+     "I nuovi collegamenti stradali con Russia e Cina mostrano che l’isolamento non è più totale: Pyongyang ha ora due sponsor che non hanno interesse a farla cadere."
+    ]
    ],
    "cronologia": [
     [
@@ -75,26 +90,38 @@
     {
      "nome": "Kim Young-Soon",
      "ruolo": "ex ballerina, sopravvissuta al campo di Yodok · audizione ONU a Seul, 2013",
-     "testo": "Viveva da privilegiata, finché a 34 anni fu epurata. Fu deportata a Yodok con i quattro figli piccoli e i genitori. Quando uscì scoprì che il marito era stato mandato in un altro campo, da cui «nessuno esce vivo».",
-     "fonte": "https://www.foxnews.com/world/nine-years-in-n-korea-gulag-to-keep-a-secret"
+     "testo": "Viveva da privilegiata, finché a 34 anni fu epurata. Fu deportata a Yodok con i quattro figli piccoli e i genitori. Quando uscì scoprì che il marito era stato mandato in un altro campo, da cui «nessuno esce vivo»."
     },
     {
      "nome": "Shin Dong-hyuk",
      "ruolo": "nato nel Campo 14, testimone davanti alla Commissione ONU",
-     "testo": "Raccontò di aver assistito all’esecuzione della madre e del fratello, che aveva denunciato per sopravvivere. Anni dopo ammise inesattezze nel suo libro (la data delle torture), ma ribadì il nucleo del suo racconto. Il giudice Kirby definì le rettifiche «sostanzialmente irrilevanti» per le conclusioni. Pyongyang lo ha definito un truffatore.",
-     "fonte": "https://www.koreaherald.com/article/346709"
+     "testo": "Raccontò di aver assistito all’esecuzione della madre e del fratello, che aveva denunciato per sopravvivere. Anni dopo ammise inesattezze nel suo libro (la data delle torture), ma ribadì il nucleo del suo racconto. Il giudice Kirby definì le rettifiche «sostanzialmente irrilevanti» per le conclusioni. Pyongyang lo ha definito un truffatore."
     },
     {
      "nome": "Jee Heon-a",
      "ruolo": "ex detenuta (dal 1999) · audizione ONU a Seul, 2013",
-     "testo": "Dal primo giorno di prigionia scoprì che le rane salate erano tra le poche cose da mangiare.",
-     "fonte": "https://freebeacon.com/politics/horror-of-north-korean-prison-camps-exposed-at-u-n-panel-hearing/"
+     "testo": "Dal primo giorno di prigionia scoprì che le rane salate erano tra le poche cose da mangiare."
     },
     {
      "nome": "Ahn Myung-chul",
      "ruolo": "ex guardia e autista nei campi politici negli anni ’90",
-     "testo": "Davanti alla commissione disse che gli investigatori erano la sola speranza per i detenuti.",
-     "fonte": "https://www.foxnews.com/world/defectors-recall-more-accounts-of-rape-torture-in-un-hearing-on-north-korea.amp"
+     "testo": "Davanti alla commissione disse che gli investigatori erano la sola speranza per i detenuti."
+    },
+    {
+     "nome": "Kim Hye Sook",
+     "ruolo": "artista, rimasta 27 anni nel campo di Yodok · audizione nel Parlamento britannico, 2011",
+     "testo": "Fu portata nel campo a 18 anni e vi rimase per quasi tre decenni. Raccontò, con i suoi disegni, la giornata tipo: lavoro manuale, scarsità di cibo, esecuzioni pubbliche e la morte di suo figlio nel campo."
+    },
+    {
+     "nome": "Kim Joo-il",
+     "ruolo": "ex soldato · Commissione d’inchiesta ONU",
+     "testo": "Ricordò che in un angolo della stazione c’era sempre una pila di morti, persone morte di fame e lasciate lì."
+    },
+    {
+     "nome": "Video · I campi di prigionia",
+     "ruolo": "Amnesty International",
+     "testo": "Immagini satellitari e racconti di ex detenuti sul campo di Yodok.",
+     "video": "1y0yhV6IT7o"
     }
    ],
    "archivio": "Le testimonianze più importanti sono quelle di disertori e sopravvissuti ai campi, raccolte dalla Commissione d’inchiesta ONU sulla Corea del Nord (2014). Sono disponibili in forma di audizioni video e rapporto scritto sul sito OHCHR.",
@@ -120,7 +147,8 @@
     "#ed1c27",
     "#024fa2",
     "#e8ecf4"
-   ]
+   ],
+   "contesto": "La guerra di Corea (1950-53) si è chiusa con un armistizio, firmato da Corea del Nord, Cina e comando ONU, non da Seul: tecnicamente le due Coree sono ancora in guerra. Lungo la zona demilitarizzata, 250 km di confine, si fronteggiano alcuni degli eserciti più grandi del mondo. Dal 2024 Kim Jong Un ha abbandonato l’obiettivo della riunificazione e considera la Corea del Sud uno “stato ostile”."
   },
   {
    "id": "myanmar",
@@ -148,9 +176,26 @@
    ],
    "attori": "Esercito (giunta) · Arakan Army · TNLA · Kokang Army · forze di resistenza",
    "retroscena": [
-    "La guerra non è in calo uniforme: Sagaing registra -37% di scontri, ma nell’Ayeyarwady si aprono fronti nuovi in una regione prima calma.",
-    "La giunta riduce i fronti nel nord dello Shan con tregue, concentrando le forze altrove.",
-    "A giugno 2026 l’Arakan Army e gli alleati hanno avanzato verso est, fuori dal suo territorio d’origine."
+    [
+     "L’esercito ha perso territori ma controlla il cielo.",
+     "Dopo l’Operazione 1027 (ottobre 2023), lanciata dall’alleanza di tre gruppi etnici, la giunta ha perso città e basi, tra cui per un periodo Lashio. La risposta sono i bombardamenti aerei, che colpiscono mercati, scuole e villaggi lontani dal fronte."
+    ],
+    [
+     "Una leva forzata.",
+     "Dal 2024 la giunta ha introdotto la coscrizione obbligatoria: molti giovani fuggono in Thailandia o si uniscono alla resistenza. Persino alcuni rohingya, privati della cittadinanza, sono stati costretti ad arruolarsi."
+    ],
+    [
+     "Il Rakhine è due crisi in una.",
+     "L’Arakan Army controlla gran parte dello Stato. I rohingya, già cacciati nel 2017 (circa 740.000 fuggirono in Bangladesh), si trovano ora tra l’esercito e i nuovi governanti, accusati a loro volta di abusi. Il caso per genocidio contro il Myanmar è in corso alla Corte internazionale di giustizia."
+    ],
+    [
+     "Cina e dipendenze.",
+     "Pechino arma e tratta con tutti: sostiene la giunta ma mantiene rapporti con gli eserciti etnici di confine. Il Paese è anche tra i principali produttori di oppio e ospita i grandi centri di truffe online, in parte gestiti da gruppi criminali cinesi."
+    ],
+    [
+     "Il terremoto non ha fermato la guerra.",
+     "Dopo il sisma di magnitudo 7,7 del marzo 2025 vicino a Mandalay, con oltre 3.700 morti, i bombardamenti sono proseguiti anche sulle zone colpite."
+    ]
    ],
    "cronologia": [
     [
@@ -166,26 +211,33 @@
     {
      "nome": "Wai Hun Aung",
      "ruolo": "operatore umanitario · Kyauktaw, 28 settembre 2026",
-     "testo": "Dopo il raid aereo sul mercato (almeno 50 morti secondo l’Arakan Army) ha spiegato che il luogo è lontano dai combattimenti e non c’entra con il conflitto. Reuters non ha potuto verificare in modo indipendente; l’esercito ha sostenuto in passato di usare «massima moderazione».",
-     "fonte": "https://www.thestar.com.my/news/world/2026/09/28/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say"
+     "testo": "Dopo il raid aereo sul mercato (almeno 50 morti secondo l’Arakan Army) ha spiegato che il luogo è lontano dai combattimenti e non c’entra con il conflitto. Reuters non ha potuto verificare in modo indipendente; l’esercito ha sostenuto in passato di usare «massima moderazione»."
     },
     {
      "nome": "Testimone di 49 anni",
      "ruolo": "anonimo · Kyauktaw, 29 settembre 2026",
-     "testo": "Tra i resti carbonizzati del mercato ha detto di non sopportare la vista di civili uccisi ingiustamente, provando dolore e rabbia. Le famiglie cercavano i corpi dei loro cari.",
-     "fonte": "https://www.dhakatribune.com/world/asia/420931/myanmar-airstrike-toll-hits-50-as-families-gather"
+     "testo": "Tra i resti carbonizzati del mercato ha detto di non sopportare la vista di civili uccisi ingiustamente, provando dolore e rabbia. Le famiglie cercavano i corpi dei loro cari."
     },
     {
      "nome": "Naing Win Lwin",
      "ruolo": "soccorritore · Kyauktaw, 17 giugno 2026",
-     "testo": "Ha raccontato che tre jet hanno sganciato nove bombe: sette morti, tra cui un bambino di cinque anni, e quindici feriti.",
-     "fonte": "https://www.bssnews.net/international/397462"
+     "testo": "Ha raccontato che tre jet hanno sganciato nove bombe: sette morti, tra cui un bambino di cinque anni, e quindici feriti."
     },
     {
      "nome": "Su Mon",
      "ruolo": "analista ACLED",
-     "testo": "Secondo lei il Rakhine ha subito più di ogni altra zona i massacri dell’esercito, e l’offensiva di settembre non ha portato successi sul campo.",
-     "fonte": "https://www.dhakatribune.com/world/asia/420931/myanmar-airstrike-toll-hits-50-as-families-gather"
+     "testo": "Secondo lei il Rakhine ha subito più di ogni altra zona i massacri dell’esercito, e l’offensiva di settembre non ha portato successi sul campo."
+    },
+    {
+     "nome": "Zohra Begum",
+     "ruolo": "12 anni, rohingya · incontro con gli inviati del Consiglio di sicurezza ONU, 2018",
+     "testo": "Raccontò che i soldati sparavano mentre entravano nel villaggio, separarono gli uomini e li uccisero, poi diedero fuoco alle case. Lei e suo fratello sono gli unici sopravvissuti di una famiglia di sedici persone e vivevano con gli zii nel campo di Balukhali."
+    },
+    {
+     "nome": "Video · Una famiglia rohingya a Kutupalong",
+     "ruolo": "UNHCR, Agenzia ONU per i rifugiati",
+     "testo": "Una famiglia del campo di Kutupalong racconta come, nonostante tutto, l’istruzione venga passata di generazione in generazione.",
+     "video": "ksoH-o6N4lc"
     }
    ],
    "archivio": "Le storie dei civili in fuga e dei rohingya sono documentate negli archivi UNHCR e nei rapporti OHCHR, con audio e video.",
@@ -211,7 +263,8 @@
     "#fecb00",
     "#34b233",
     "#ea2839"
-   ]
+   ],
+   "contesto": "Il 1° febbraio 2021 l’esercito ha rovesciato il governo eletto di Aung San Suu Kyi. La repressione ha trasformato le proteste in una lotta armata: da allora il Paese è diviso tra la giunta, un governo ombra (NUG) con le sue milizie e decine di eserciti etnici con rivendicazioni più antiche, alcune di settant’anni."
   },
   {
    "id": "afghanistan",
@@ -231,7 +284,22 @@
    ],
    "attori": "Governo talebano · NRF · Afghanistan Freedom Front",
    "retroscena": [
-    "L’attività armata d’opposizione è sotto la media del 2025: i talebani controllano il Paese, ma gli attacchi simbolici continuano."
+    [
+     "Il divieto di istruzione.",
+     "Dal 2021 le ragazze sono escluse dalla scuola secondaria e dal dicembre 2022 dalle università. Nel 2024 una legge sul “vizio e la virtù” ha vietato anche la voce delle donne in pubblico. Esperti ONU parlano di “apartheid di genere”."
+    ],
+    [
+     "La giustizia internazionale si muove.",
+     "Nel 2025 la Corte penale internazionale ha emesso mandati d’arresto per i vertici talebani per persecuzione di genere. Nello stesso anno la Russia è stata il primo Paese a riconoscere ufficialmente il governo di Kabul."
+    ],
+    [
+     "Il ritorno forzato.",
+     "Pakistan e Iran hanno espulso o spinto a tornare milioni di afghani dal 2023. Molti arrivano in un Paese senza lavoro e senza case, già colpito dal terremoto del 2025 nel Kunar."
+    ],
+    [
+     "L’oppio ridotto, la fame cresciuta.",
+     "Il bando del 2022 ha ridotto drasticamente la coltivazione, ma ha tolto reddito a centinaia di migliaia di famiglie, che ora dipendono dagli aiuti."
+    ]
    ],
    "cronologia": [
     [
@@ -239,7 +307,23 @@
      "NRF colpisce una base talebana con esplosivi e razzi"
     ]
    ],
-   "testimonianze": [],
+   "testimonianze": [
+    {
+     "nome": "Laila",
+     "ruolo": "ragazza anonima in Afghanistan · registrazione al Consiglio ONU per i diritti umani, giugno 2024",
+     "testo": "Disse che prima le donne erano libere e ora vivono come schiave, “uccelli con le ali spezzate”. Conosce donne che si sono tolte la vita dopo essere state picchiate per l’hijab. Da quando le scuole superiori sono chiuse resta a casa ad aiutare la madre e ha chiesto al mondo di non abbandonare le ragazze afghane."
+    },
+    {
+     "nome": "Sana",
+     "ruolo": "studentessa di Legge e Scienze politiche, Kabul · dicembre 2022",
+     "testo": "Era all’ottavo semestre quando fu annunciato il divieto universitario. Dice che, quando tolsero la scuola alle ragazze più giovani, capirono che sarebbero state le prossime."
+    },
+    {
+     "nome": "Nargis",
+     "ruolo": "insegnante · dicembre 2022",
+     "testo": "Una delle sue alunne di prima media alzò la mano e le chiese se la scuola fosse chiusa anche per i ragazzi. Poi si mise a piangere senza riuscire a fermarsi."
+    }
+   ],
    "archivio": "Testimonianze su diritti umani e donne: archivi UN News e OHCHR.",
    "fonti": [
     [
@@ -259,7 +343,8 @@
     "#d32011",
     "#007a36",
     "#e5e5e5"
-   ]
+   ],
+   "contesto": "Il 15 agosto 2021 i talebani sono tornati a Kabul dopo il ritiro occidentale. Non c’è una guerra civile aperta come in Myanmar: l’opposizione armata è debole e frammentata. Il conflitto è soprattutto una pressione quotidiana su donne, minoranze e dissenso, più un’economia crollata e una sicurezza instabile."
   },
   {
    "id": "afpak",
@@ -279,8 +364,22 @@
    ],
    "attori": "Pakistan · talebani afghani · TTP",
    "retroscena": [
-    "ACLED osserva che i raid aerei permettono a Islamabad di mostrare forza senza entrare in una guerra prolungata e impopolare.",
-    "I fatti scatenanti sono gli attacchi del TTP a Peshawar (8 giu) e Karachi (27 giu)."
+    [
+     "Due Paesi, due versioni.",
+     "Il Pakistan accusa Kabul di dare rifugio ai miliziani del TTP e prepara raid aerei oltre confine. I talebani negano e parlano di violazioni della sovranità."
+    ],
+    [
+     "I raid come messaggio.",
+     "Gli attacchi pakistani sul territorio afghano, compresi quelli dell’ottobre 2025, servono più a segnalare forza che a conquistare terreno. Secondo le cronache, una tregua è stata mediata da Qatar e Turchia, ma i colloqui successivi sono stati difficili."
+    ],
+    [
+     "Il prezzo lo paga il commercio.",
+     "La chiusura dei valichi di Torkham e Chaman blocca merci e persone: aziende, ospedali e famiglie divise dal confine sono le prime vittime."
+    ],
+    [
+     "Gli afghani espulsi.",
+     "Parallelamente il Pakistan ha avviato espulsioni di massa di afghani senza documenti, anche di chi vive lì da decenni."
+    ]
    ],
    "cronologia": [
     [
@@ -316,7 +415,8 @@
     "#01411c",
     "#d32011",
     "#e5e5e5"
-   ]
+   ],
+   "contesto": "La Linea Durand, tracciata nel 1893 e lunga circa 2.640 km, non è mai stata riconosciuta dall’Afghanistan. Quando i talebani hanno preso il potere, Islamabad sperava in un alleato. Si è trovata invece con un vicino che, secondo il Pakistan, ospita i militanti del TTP."
   },
   {
    "id": "pakistan",
@@ -336,8 +436,22 @@
    ],
    "attori": "Forze di sicurezza · TTP · HGB · ISKP · gruppi beluci",
    "retroscena": [
-    "TTP e HGB sono in rivalità violenta tra loro, non solo con lo Stato.",
-    "L’EUAA considera il Paese colpito da più conflitti armati, con intensità diversa per area."
+    [
+     "Il treno sequestrato.",
+     "Nel marzo 2025 il Baloch Liberation Army ha sequestrato il Jaffar Express con centinaia di passeggeri: un’operazione che ha mostrato capacità militari nuove dei separatisti."
+    ],
+    [
+     "Risorse e rivendicazioni.",
+     "I beluci accusano Islamabad di sfruttare le risorse della regione, tra cui le infrastrutture del corridoio economico con la Cina, senza dividere i benefici."
+    ],
+    [
+     "Sparizioni forzate.",
+     "Organizzazioni per i diritti umani denunciano da anni sparizioni di attivisti e giovani beluci. Nel 2025 è stata arrestata anche la leader del movimento Mahrang Baloch."
+    ],
+    [
+     "Un Paese diviso dentro.",
+     "L’ex premier Imran Khan è in carcere dal 2023: la tensione tra esercito e opposizione toglie risorse e attenzione al fronte della sicurezza."
+    ]
    ],
    "cronologia": [
     [
@@ -361,7 +475,8 @@
     "#1faa59",
     "#0b6b3a",
     "#e8f5ec"
-   ]
+   ],
+   "contesto": "Il Pakistan combatte su più fronti interni: gli islamisti del TTP e dello Stato Islamico nel Khyber Pakhtunkhwa, i separatisti beluci nel Balochistan e una forte instabilità politica. Il 2025 è stato descritto da vari centri di ricerca come uno degli anni più violenti da un decennio."
   },
   {
    "id": "kashmir",
@@ -385,8 +500,22 @@
    ],
    "attori": "India · Pakistan",
    "retroscena": [
-    "Il cessate il fuoco del 10 maggio 2025 è stato mediato dagli USA.",
-    "A luglio 2026 l’annuncio di elezioni nel Kashmir pakistano ha causato disordini mortali."
+    [
+     "L’acqua come arma.",
+     "Dopo l’attentato di Pahalgam (22 aprile 2025, 26 turisti uccisi) l’India ha sospeso il Trattato sulle acque dell’Indo del 1960. Il Pakistan ha avvertito che bloccare l’acqua sarebbe un atto di guerra."
+    ],
+    [
+     "Quattro giorni di scontri.",
+     "Dal 7 maggio 2025 missili, droni e raid aerei hanno colpito basi in entrambi i Paesi, fino al cessate il fuoco del 10 maggio. Ciascuno si è dichiarato vincitore."
+    ],
+    [
+     "Chi ha mediato?",
+     "Washington ha attribuito alla propria mediazione la tregua, ma Nuova Delhi lo nega e dice di aver trattato direttamente con Islamabad."
+    ],
+    [
+     "Il rischio non è solo militare.",
+     "Il Kashmir resta tra le zone più militarizzate del mondo, con restrizioni a internet e libertà politiche limitate nel lato indiano e contestazioni nel lato pakistano."
+    ]
    ],
    "cronologia": [
     [
@@ -422,7 +551,8 @@
     "#ff9933",
     "#138808",
     "#2d6cdf"
-   ]
+   ],
+   "contesto": "Dal 1947 India e Pakistan si contendono il Kashmir e hanno combattuto più guerre. Nel 2019 l’India ha revocato l’autonomia della parte che amministra (articolo 370). Entrambe hanno armi nucleari, circa 170-180 testate ciascuna secondo le stime di istituti come SIPRI."
   },
   {
    "id": "thai",
@@ -442,7 +572,22 @@
    ],
    "attori": "Thailandia · Cambogia",
    "retroscena": [
-    "Le dispute territoriali restano irrisolte: la tregua è una pausa, non una pace."
+    [
+     "La scintilla del 2025.",
+     "Un soldato cambogiano è morto in uno scontro a maggio 2025. A fine luglio sono seguiti cinque giorni di combattimenti con artiglieria e aerei: più di 100.000 persone sono state evacuate in Thailandia e decine di migliaia in Cambogia."
+    ],
+    [
+     "La politica interna pesa.",
+     "In Thailandia la crisi ha travolto la premier Paetongtarn Shinawatra, sospesa dopo la diffusione di una telefonata con l’ex leader cambogiano Hun Sen e poi rimossa dalla Corte costituzionale. Il nazionalismo conviene a entrambi i governi."
+    ],
+    [
+     "Le mediazioni.",
+     "La tregua è arrivata con i negoziati in Malaysia e le pressioni degli Stati Uniti, con un accordo firmato a ottobre 2025. La Thailandia lo ha sospeso a novembre dopo un incidente con una mina."
+    ],
+    [
+     "Le mine.",
+     "Gli ordigni lasciati nelle zone di confine continuano a ferire militari e civili e sono diventati un motivo politico di tensione."
+    ]
    ],
    "cronologia": [
     [
@@ -450,7 +595,18 @@
      "Cessate il fuoco dopo i combattimenti"
     ]
    ],
-   "testimonianze": [],
+   "testimonianze": [
+    {
+     "nome": "Dai centri di evacuazione",
+     "ruolo": "sfollati thailandesi · Surin, luglio 2025",
+     "testo": "Le persone arrivate in una palestra universitaria a Surin, a circa 80 km dal confine, hanno raccontato di essere scappate sotto un bombardamento d’artiglieria. Hanno dormito su tappetini di plastica nel giro di poche ore dall’evacuazione. Una donna, Pornpan Sooksai, era arrivata con il suo gatto."
+    },
+    {
+     "nome": "Dai villaggi cambogiani",
+     "ruolo": "sfollati cambogiani · Oddar Meanchey, luglio 2025",
+     "testo": "Nei villaggi di confine della provincia quasi tutti i residenti se ne erano andati. Diverse centinaia di sfollati sono stati ospitati in un tempio buddista tra le risaie, in fila per ricevere le donazioni."
+    }
+   ],
    "archivio": "Rapporti di ReliefWeb e ICRC su sfollati di frontiera.",
    "fonti": [
     [
@@ -470,7 +626,8 @@
     "#a51931",
     "#2d63c8",
     "#f4f5f8"
-   ]
+   ],
+   "contesto": "Il confine tra Thailandia e Cambogia, lungo circa 800 km, nasce da mappe coloniali francesi di inizio ’900. Il tempio di Preah Vihear fu assegnato alla Cambogia dalla Corte internazionale di giustizia nel 1962. Da allora la disputa è tornata più volte, con scontri anche tra il 2008 e il 2011."
   },
   {
    "id": "taiwan",
@@ -490,8 +647,22 @@
    ],
    "attori": "Cina · Taiwan · USA",
    "retroscena": [
-    "Per gli analisti la mossa più probabile è il blocco navale o la coercizione ‘zona grigia’, non un’invasione.",
-    "Anche un blocco comporterebbe rischi enormi: scontro con gli USA, sanzioni, shock sui mercati."
+    [
+     "Una crisi che non fa rumore.",
+     "Le esercitazioni cinesi attorno all’isola, come quelle del 2022, del 2024 e dell’aprile 2025, simulano blocchi e attacchi senza sparare. Servono a logorare la difesa e a testare le reazioni."
+    ],
+    [
+     "Perché conta anche chi non è coinvolto.",
+     "Taiwan produce la gran parte dei semiconduttori più avanzati al mondo, soprattutto con TSMC. Un conflitto o un blocco colpirebbe l’industria globale, dai telefoni alle auto."
+    ],
+    [
+     "La società si prepara.",
+     "Dal 2024 la leva è di un anno e il governo ha promesso di alzare le spese per la difesa. Ma sulla percezione del rischio l’opinione pubblica resta divisa."
+    ],
+    [
+     "Il Giappone entra nel gioco.",
+     "A novembre 2025 le parole della premier giapponese su un’eventuale crisi taiwanese hanno innescato una dura reazione di Pechino."
+    ]
    ],
    "cronologia": [
     [
@@ -511,7 +682,8 @@
     "#fe0000",
     "#2f5cd6",
     "#f1f3f8"
-   ]
+   ],
+   "contesto": "Taiwan è governata autonomamente dal 1949, quando il governo nazionalista si rifugiò sull’isola dopo la guerra civile cinese. Pechino la considera una provincia e non esclude la forza. Gli Stati Uniti sono vincolati dal Taiwan Relations Act del 1979 a fornire armi difensive, ma mantengono una deliberata ambiguità sull’intervento militare."
   },
   {
    "id": "scs",
@@ -531,7 +703,22 @@
    ],
    "attori": "Cina · Filippine",
    "retroscena": [
-    "L’installazione a Scarborough Shoal ha riacceso la tensione con Manila."
+    [
+     "Navi, non soldati.",
+     "Gli scontri avvengono soprattutto tra guardie costiere e pescherecci: cannoni ad acqua, speronamenti e manovre pericolose. Nel giugno 2024 un marinaio filippino perse un pollice a Second Thomas Shoal."
+    ],
+    [
+     "Una nave arenata sul punto più teso.",
+     "La BRP Sierra Madre, arenata nel 1999, è un avamposto filippino che la Cina cerca di isolare. I rifornimenti sono il principale punto di crisi."
+    ],
+    [
+     "Scarborough Shoal.",
+     "Controllato di fatto da Pechino dal 2012, nel 2025 è stato dichiarato dalla Cina riserva naturale nazionale: per Manila è una mossa per consolidare il possesso."
+    ],
+    [
+     "Il trattato che conta.",
+     "Il trattato di difesa del 1951 tra USA e Filippine copre anche le navi pubbliche nel Mar Cinese Meridionale: un incidente grave potrebbe coinvolgere Washington."
+    ]
    ],
    "cronologia": [
     [
@@ -555,7 +742,8 @@
     "#0aa6c9",
     "#0c4a8a",
     "#f5c542"
-   ]
+   ],
+   "contesto": "Nel Mar Cinese Meridionale passa una quota enorme del commercio mondiale (stime citate dal CSIS parlano di circa 3.000 miliardi di dollari l’anno). La Cina rivendica quasi tutto lo spazio con la linea dei nove tratti. Nel 2016 un tribunale arbitrale ha stabilito che quella rivendicazione non ha base giuridica, ma Pechino non lo riconosce."
   },
   {
    "id": "gaza",
@@ -575,7 +763,22 @@
    ],
    "attori": "Israele · Hamas",
    "retroscena": [
-    "Hamas rifiuta il disarmo e Israele mantiene il controllo di ampie aree."
+    [
+     "I numeri e chi li contesta.",
+     "Il ministero della Salute di Gaza, i cui dati sono considerati in larga parte attendibili da agenzie ONU, parla di oltre 67.000 morti entro ottobre 2025. Israele contesta le cifre e sostiene di aver colpito miliziani."
+    ],
+    [
+     "La fame.",
+     "Nell’agosto 2025 l’organismo IPC, sostenuto dall’ONU, ha dichiarato la carestia nella zona di Gaza City. Israele ha contestato la valutazione."
+    ],
+    [
+     "Il giudizio internazionale.",
+     "Una commissione d’inchiesta ONU ha concluso nel settembre 2025 che Israele ha commesso genocidio, accusa respinta da Israele. La Corte penale internazionale ha emesso mandati d’arresto per Netanyahu, Gallant e leader di Hamas."
+    ],
+    [
+     "La Cisgiordania è un altro fronte.",
+     "Violenza dei coloni, incursioni militari e nuovi insediamenti aumentano la tensione, ma ricevono molta meno attenzione."
+    ]
    ],
    "cronologia": [
     [
@@ -603,7 +806,8 @@
     "#ce1126",
     "#009736",
     "#d9d9d9"
-   ]
+   ],
+   "contesto": "Dopo l’attacco di Hamas del 7 ottobre 2023 (circa 1.200 morti in Israele e circa 250 ostaggi), l’offensiva israeliana ha devastato Gaza. Un cessate il fuoco è entrato in vigore il 10 ottobre 2025 sulla base del piano americano, ma la situazione resta precaria e i raid sono proseguiti."
   },
   {
    "id": "iran",
@@ -623,7 +827,22 @@
    ],
    "attori": "Iran · USA · Israele",
    "retroscena": [
-    "Il dato dell’attacco proviene da una fonte secondaria: serve verifica con agenzie internazionali."
+    [
+     "Dov’è l’uranio?",
+     "Prima della guerra l’Iran aveva scorte di uranio arricchito al 60%. Dopo i bombardamenti l’AIEA ha detto di non poter verificare dove si trovi quella parte. La cooperazione con gli ispettori è stata ridotta."
+    ],
+    [
+     "Le sanzioni sono tornate.",
+     "A fine settembre 2025 sono state ripristinate le sanzioni ONU con il meccanismo detto snapback, attivato da Francia, Germania e Regno Unito."
+    ],
+    [
+     "Il fronte interno.",
+     "La moneta in caduta, la crisi energetica e le proteste all’inizio del 2026 hanno aumentato la pressione sul governo."
+    ],
+    [
+     "Da verificare.",
+     "Una fonte giornalistica parla di nuovi attacchi americani e israeliani il 28 febbraio 2026: il dato non è stato confermato da altre fonti primarie consultate."
+    ]
    ],
    "cronologia": [
     [
@@ -647,7 +866,8 @@
     "#239f40",
     "#da0000",
     "#e8f2ea"
-   ]
+   ],
+   "contesto": "Dopo decenni di scontri a distanza, a giugno 2025 Israele ha attaccato l’Iran per dodici giorni. Gli Stati Uniti hanno colpito i siti nucleari di Fordow, Natanz e Isfahan il 22 giugno. Il cessate il fuoco è arrivato il 24 giugno."
   }
  ]
 }
