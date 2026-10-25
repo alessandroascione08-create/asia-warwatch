@@ -1,0 +1,653 @@
+{
+ "sito": {
+  "nome": "Conflitti in Asia",
+  "sottotitolo": "Mappa, notizie e testimonianze dai fronti del continente",
+  "foto": true
+ },
+ "conflitti": [
+  {
+   "id": "nk",
+   "nome": "Corea del Nord",
+   "regione": "Asia orientale",
+   "stato": "tensione",
+   "intensita": 4,
+   "colore": "#c1121f",
+   "lat": 39.9,
+   "lng": 127,
+   "sommario": "Test missilistici a raffica, ponti con Cina e Russia, soldati nordcoreani in guerra per Mosca: Pyongyang torna al centro della scena.",
+   "numeri": [
+    [
+     "10",
+     "missili balistici il 14 mar 2026"
+    ],
+    [
+     ">700 km",
+     "raggio del missile del 3 ott"
+    ],
+    [
+     "2",
+     "soldati catturati e trasferiti a Seul (23 set)"
+    ],
+    [
+     "1953",
+     "armistizio: la guerra non è mai finita"
+    ]
+   ],
+   "attori": "Corea del Nord (Kim Jong Un) · Corea del Sud · USA · Russia · Cina · Giappone",
+   "retroscena": [
+    "Tecnicamente la guerra di Corea non si è mai conclusa: c’è solo un armistizio del 1953, non un trattato di pace.",
+    "Il 23 settembre l’Ucraina ha annunciato il trasferimento in Corea del Sud di due soldati nordcoreani catturati mentre combattevano per la Russia: un caso diplomatico raro, perché per Seul sono cittadini coreani.",
+    "Il 14 ottobre gli USA hanno colpito una rete che dirottava verso Pyongyang i guadagni di lavoratori IT: il cyber-lavoro è una fonte di valuta estera sotto sanzioni.",
+    "L’8 settembre si è aperto il primo ponte stradale Russia–Corea del Nord e il 15 ottobre quello con la Cina: l’isolamento economico si sta erodendo.",
+    "Il 17 ottobre la KCNA ha annunciato un test di siluro con intelligenza artificiale (dato dichiarato dal regime, non verificato)."
+   ],
+   "cronologia": [
+    [
+     "4 gen",
+     "Lancio balistico, test di missili ipersonici ispezionati da Kim"
+    ],
+    [
+     "14 mar",
+     "10 missili balistici nel Mar del Giappone"
+    ],
+    [
+     "19 apr",
+     "Test con munizioni a grappolo"
+    ],
+    [
+     "8 set",
+     "Aperto il ponte stradale Russia–Corea del Nord"
+    ],
+    [
+     "3 ott",
+     "Missile a medio raggio durante un’esercitazione guidata da Kim"
+    ],
+    [
+     "12 ott",
+     "Più missili balistici dalla zona di Pyongyang"
+    ],
+    [
+     "15 ott",
+     "Inaugurato il nuovo ponte Cina–Corea del Nord"
+    ]
+   ],
+   "testimonianze": [
+    {
+     "nome": "Kim Young-Soon",
+     "ruolo": "ex ballerina, sopravvissuta al campo di Yodok · audizione ONU a Seul, 2013",
+     "testo": "Viveva da privilegiata, finché a 34 anni fu epurata. Fu deportata a Yodok con i quattro figli piccoli e i genitori. Quando uscì scoprì che il marito era stato mandato in un altro campo, da cui «nessuno esce vivo».",
+     "fonte": "https://www.foxnews.com/world/nine-years-in-n-korea-gulag-to-keep-a-secret"
+    },
+    {
+     "nome": "Shin Dong-hyuk",
+     "ruolo": "nato nel Campo 14, testimone davanti alla Commissione ONU",
+     "testo": "Raccontò di aver assistito all’esecuzione della madre e del fratello, che aveva denunciato per sopravvivere. Anni dopo ammise inesattezze nel suo libro (la data delle torture), ma ribadì il nucleo del suo racconto. Il giudice Kirby definì le rettifiche «sostanzialmente irrilevanti» per le conclusioni. Pyongyang lo ha definito un truffatore.",
+     "fonte": "https://www.koreaherald.com/article/346709"
+    },
+    {
+     "nome": "Jee Heon-a",
+     "ruolo": "ex detenuta (dal 1999) · audizione ONU a Seul, 2013",
+     "testo": "Dal primo giorno di prigionia scoprì che le rane salate erano tra le poche cose da mangiare.",
+     "fonte": "https://freebeacon.com/politics/horror-of-north-korean-prison-camps-exposed-at-u-n-panel-hearing/"
+    },
+    {
+     "nome": "Ahn Myung-chul",
+     "ruolo": "ex guardia e autista nei campi politici negli anni ’90",
+     "testo": "Davanti alla commissione disse che gli investigatori erano la sola speranza per i detenuti.",
+     "fonte": "https://www.foxnews.com/world/defectors-recall-more-accounts-of-rape-torture-in-un-hearing-on-north-korea.amp"
+    }
+   ],
+   "archivio": "Le testimonianze più importanti sono quelle di disertori e sopravvissuti ai campi, raccolte dalla Commissione d’inchiesta ONU sulla Corea del Nord (2014). Sono disponibili in forma di audizioni video e rapporto scritto sul sito OHCHR.",
+   "fonti": [
+    [
+     "NK News",
+     "https://www.nknews.org"
+    ],
+    [
+     "OHCHR",
+     "https://www.ohchr.org"
+    ],
+    [
+     "CFR Tracker",
+     "https://www.cfr.org/global-conflict-tracker"
+    ],
+    [
+     "UN News",
+     "https://news.un.org"
+    ]
+   ],
+   "tema": [
+    "#ed1c27",
+    "#024fa2",
+    "#e8ecf4"
+   ]
+  },
+  {
+   "id": "myanmar",
+   "nome": "Myanmar",
+   "regione": "Sud-est asiatico",
+   "stato": "attivo",
+   "intensita": 5,
+   "colore": "#b5651d",
+   "lat": 20.5,
+   "lng": 95.5,
+   "sommario": "La guerra civile più estesa dell’Asia: l’esercito contro eserciti etnici e forze di resistenza, con il fronte che si sposta verso sud.",
+   "numeri": [
+    [
+     "40%",
+     "dei morti in battaglia a giugno: scontri con l’Arakan Army"
+    ],
+    [
+     "-37%",
+     "scontri a Sagaing rispetto al 2024"
+    ],
+    [
+     "2",
+     "tregue della giunta (TNLA, Kokang)"
+    ]
+   ],
+   "attori": "Esercito (giunta) · Arakan Army · TNLA · Kokang Army · forze di resistenza",
+   "retroscena": [
+    "La guerra non è in calo uniforme: Sagaing registra -37% di scontri, ma nell’Ayeyarwady si aprono fronti nuovi in una regione prima calma.",
+    "La giunta riduce i fronti nel nord dello Shan con tregue, concentrando le forze altrove.",
+    "A giugno 2026 l’Arakan Army e gli alleati hanno avanzato verso est, fuori dal suo territorio d’origine."
+   ],
+   "cronologia": [
+    [
+     "gen 2026",
+     "Calo di scontri nel nord; nuovo fronte nell’Ayeyarwady"
+    ],
+    [
+     "giu 2026",
+     "Offensiva dell’Arakan Army verso est"
+    ]
+   ],
+   "testimonianze": [
+    {
+     "nome": "Wai Hun Aung",
+     "ruolo": "operatore umanitario · Kyauktaw, 28 settembre 2026",
+     "testo": "Dopo il raid aereo sul mercato (almeno 50 morti secondo l’Arakan Army) ha spiegato che il luogo è lontano dai combattimenti e non c’entra con il conflitto. Reuters non ha potuto verificare in modo indipendente; l’esercito ha sostenuto in passato di usare «massima moderazione».",
+     "fonte": "https://www.thestar.com.my/news/world/2026/09/28/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say"
+    },
+    {
+     "nome": "Testimone di 49 anni",
+     "ruolo": "anonimo · Kyauktaw, 29 settembre 2026",
+     "testo": "Tra i resti carbonizzati del mercato ha detto di non sopportare la vista di civili uccisi ingiustamente, provando dolore e rabbia. Le famiglie cercavano i corpi dei loro cari.",
+     "fonte": "https://www.dhakatribune.com/world/asia/420931/myanmar-airstrike-toll-hits-50-as-families-gather"
+    },
+    {
+     "nome": "Naing Win Lwin",
+     "ruolo": "soccorritore · Kyauktaw, 17 giugno 2026",
+     "testo": "Ha raccontato che tre jet hanno sganciato nove bombe: sette morti, tra cui un bambino di cinque anni, e quindici feriti.",
+     "fonte": "https://www.bssnews.net/international/397462"
+    },
+    {
+     "nome": "Su Mon",
+     "ruolo": "analista ACLED",
+     "testo": "Secondo lei il Rakhine ha subito più di ogni altra zona i massacri dell’esercito, e l’offensiva di settembre non ha portato successi sul campo.",
+     "fonte": "https://www.dhakatribune.com/world/asia/420931/myanmar-airstrike-toll-hits-50-as-families-gather"
+    }
+   ],
+   "archivio": "Le storie dei civili in fuga e dei rohingya sono documentate negli archivi UNHCR e nei rapporti OHCHR, con audio e video.",
+   "fonti": [
+    [
+     "ACLED lug 2026",
+     "https://acleddata.com/update/asia-pacific-overview-july-2026"
+    ],
+    [
+     "ACLED gen 2026",
+     "https://acleddata.com/update/asia-pacific-overview-january-2026"
+    ],
+    [
+     "UNHCR",
+     "https://www.unhcr.org"
+    ],
+    [
+     "OHCHR",
+     "https://www.ohchr.org"
+    ]
+   ],
+   "tema": [
+    "#fecb00",
+    "#34b233",
+    "#ea2839"
+   ]
+  },
+  {
+   "id": "afghanistan",
+   "nome": "Afghanistan",
+   "regione": "Asia centro-meridionale",
+   "stato": "attivo",
+   "intensita": 2,
+   "colore": "#6a4c93",
+   "lat": 35,
+   "lng": 68.5,
+   "sommario": "La resistenza anti-talebana è debole ma non spenta.",
+   "numeri": [
+    [
+     "8 dic",
+     "attacco NRF nel Panjshir"
+    ]
+   ],
+   "attori": "Governo talebano · NRF · Afghanistan Freedom Front",
+   "retroscena": [
+    "L’attività armata d’opposizione è sotto la media del 2025: i talebani controllano il Paese, ma gli attacchi simbolici continuano."
+   ],
+   "cronologia": [
+    [
+     "8 dic 2025",
+     "NRF colpisce una base talebana con esplosivi e razzi"
+    ]
+   ],
+   "testimonianze": [],
+   "archivio": "Testimonianze su diritti umani e donne: archivi UN News e OHCHR.",
+   "fonti": [
+    [
+     "ACLED gen 2026",
+     "https://acleddata.com/update/asia-pacific-overview-january-2026"
+    ],
+    [
+     "UN News",
+     "https://news.un.org"
+    ],
+    [
+     "OHCHR",
+     "https://www.ohchr.org"
+    ]
+   ],
+   "tema": [
+    "#d32011",
+    "#007a36",
+    "#e5e5e5"
+   ]
+  },
+  {
+   "id": "afpak",
+   "nome": "Afghanistan – Pakistan",
+   "regione": "Asia meridionale",
+   "stato": "attivo",
+   "intensita": 3,
+   "colore": "#7b2cbf",
+   "lat": 33.2,
+   "lng": 70.2,
+   "sommario": "Raid aerei e ritorsioni: una guerra a bassa intensità che evita lo scontro tra eserciti.",
+   "numeri": [
+    [
+     "Apr",
+     "ultimo scontro tra i due eserciti"
+    ]
+   ],
+   "attori": "Pakistan · talebani afghani · TTP",
+   "retroscena": [
+    "ACLED osserva che i raid aerei permettono a Islamabad di mostrare forza senza entrare in una guerra prolungata e impopolare.",
+    "I fatti scatenanti sono gli attacchi del TTP a Peshawar (8 giu) e Karachi (27 giu)."
+   ],
+   "cronologia": [
+    [
+     "ott 2025",
+     "Scontri di frontiera"
+    ],
+    [
+     "8 giu 2026",
+     "Attacco TTP vicino a Peshawar"
+    ],
+    [
+     "27 giu 2026",
+     "Attacco a Karachi e ritorsione pakistana"
+    ]
+   ],
+   "testimonianze": [],
+   "archivio": "Reportage e rapporti sul campo: ReliefWeb e UN News.",
+   "fonti": [
+    [
+     "ACLED lug 2026",
+     "https://acleddata.com/update/asia-pacific-overview-july-2026"
+    ],
+    [
+     "EUAA Pakistan",
+     "https://www.euaa.europa.eu/country-guidance-pakistan/531-armed-conflict-international-or-internal"
+    ],
+    [
+     "ReliefWeb",
+     "https://reliefweb.int"
+    ]
+   ],
+   "tema": [
+    "#01411c",
+    "#d32011",
+    "#e5e5e5"
+   ]
+  },
+  {
+   "id": "pakistan",
+   "nome": "Pakistan interno",
+   "regione": "Asia meridionale",
+   "stato": "attivo",
+   "intensita": 4,
+   "colore": "#2a9d8f",
+   "lat": 30.2,
+   "lng": 68,
+   "sommario": "Insorgenze islamiste e separatismo beluce su più fronti.",
+   "numeri": [
+    [
+     "5",
+     "conflitti distinti elencati dall’EUAA"
+    ]
+   ],
+   "attori": "Forze di sicurezza · TTP · HGB · ISKP · gruppi beluci",
+   "retroscena": [
+    "TTP e HGB sono in rivalità violenta tra loro, non solo con lo Stato.",
+    "L’EUAA considera il Paese colpito da più conflitti armati, con intensità diversa per area."
+   ],
+   "cronologia": [
+    [
+     "mag 2025",
+     "Escalation breve con l’India"
+    ]
+   ],
+   "testimonianze": [],
+   "archivio": "Rapporti ufficiali: EUAA e UCDP.",
+   "fonti": [
+    [
+     "EUAA Pakistan",
+     "https://www.euaa.europa.eu/country-guidance-pakistan/531-armed-conflict-international-or-internal"
+    ],
+    [
+     "UCDP",
+     "https://ucdp.uu.se"
+    ]
+   ],
+   "tema": [
+    "#1faa59",
+    "#0b6b3a",
+    "#e8f5ec"
+   ]
+  },
+  {
+   "id": "kashmir",
+   "nome": "India – Pakistan",
+   "regione": "Asia meridionale",
+   "stato": "tensione",
+   "intensita": 3,
+   "colore": "#1d6fa5",
+   "lat": 34.2,
+   "lng": 75.3,
+   "sommario": "Due potenze nucleari, una crisi chiusa da un cessate il fuoco ma non risolta.",
+   "numeri": [
+    [
+     "26",
+     "turisti uccisi nell’attentato dell’apr 2025"
+    ],
+    [
+     "10 mag",
+     "cessate il fuoco"
+    ]
+   ],
+   "attori": "India · Pakistan",
+   "retroscena": [
+    "Il cessate il fuoco del 10 maggio 2025 è stato mediato dagli USA.",
+    "A luglio 2026 l’annuncio di elezioni nel Kashmir pakistano ha causato disordini mortali."
+   ],
+   "cronologia": [
+    [
+     "apr 2025",
+     "Attentato e crisi"
+    ],
+    [
+     "10 mag 2025",
+     "Cessate il fuoco"
+    ],
+    [
+     "lug 2026",
+     "Disordini nel Kashmir pakistano"
+    ]
+   ],
+   "testimonianze": [],
+   "archivio": "Voci dalle comunità del Kashmir: reportage Al Jazeera e UN News.",
+   "fonti": [
+    [
+     "CFR Tracker",
+     "https://www.cfr.org/global-conflict-tracker"
+    ],
+    [
+     "ACLED lug 2026",
+     "https://acleddata.com/update/asia-pacific-overview-july-2026"
+    ],
+    [
+     "UN News",
+     "https://news.un.org"
+    ]
+   ],
+   "tema": [
+    "#ff9933",
+    "#138808",
+    "#2d6cdf"
+   ]
+  },
+  {
+   "id": "thai",
+   "nome": "Thailandia – Cambogia",
+   "regione": "Sud-est asiatico",
+   "stato": "tregua",
+   "intensita": 2,
+   "colore": "#3a7d44",
+   "lat": 14.4,
+   "lng": 103.1,
+   "sommario": "Una guerra di confine su larga scala si è fermata, ma solo con una tregua fragile.",
+   "numeri": [
+    [
+     "1",
+     "tregua, descritta come fragile"
+    ]
+   ],
+   "attori": "Thailandia · Cambogia",
+   "retroscena": [
+    "Le dispute territoriali restano irrisolte: la tregua è una pausa, non una pace."
+   ],
+   "cronologia": [
+    [
+     "fine 2025",
+     "Cessate il fuoco dopo i combattimenti"
+    ]
+   ],
+   "testimonianze": [],
+   "archivio": "Rapporti di ReliefWeb e ICRC su sfollati di frontiera.",
+   "fonti": [
+    [
+     "ACLED gen 2026",
+     "https://acleddata.com/update/asia-pacific-overview-january-2026"
+    ],
+    [
+     "ReliefWeb",
+     "https://reliefweb.int"
+    ],
+    [
+     "ICRC",
+     "https://www.icrc.org"
+    ]
+   ],
+   "tema": [
+    "#a51931",
+    "#2d63c8",
+    "#f4f5f8"
+   ]
+  },
+  {
+   "id": "taiwan",
+   "nome": "Stretto di Taiwan",
+   "regione": "Asia orientale",
+   "stato": "tensione",
+   "intensita": 3,
+   "colore": "#d4a017",
+   "lat": 23.7,
+   "lng": 121,
+   "sommario": "Nessuna guerra, ma una pressione militare continua.",
+   "numeri": [
+    [
+     "Blocco",
+     "scenario ritenuto più probabile"
+    ]
+   ],
+   "attori": "Cina · Taiwan · USA",
+   "retroscena": [
+    "Per gli analisti la mossa più probabile è il blocco navale o la coercizione ‘zona grigia’, non un’invasione.",
+    "Anche un blocco comporterebbe rischi enormi: scontro con gli USA, sanzioni, shock sui mercati."
+   ],
+   "cronologia": [
+    [
+     "2026",
+     "Pressione militare cinese in aumento"
+    ]
+   ],
+   "testimonianze": [],
+   "archivio": "Nessun conflitto aperto: testimonianze non applicabili.",
+   "fonti": [
+    [
+     "CFR Tracker",
+     "https://www.cfr.org/global-conflict-tracker"
+    ]
+   ],
+   "tema": [
+    "#fe0000",
+    "#2f5cd6",
+    "#f1f3f8"
+   ]
+  },
+  {
+   "id": "scs",
+   "nome": "Mar Cinese Meridionale",
+   "regione": "Asia orientale",
+   "stato": "tensione",
+   "intensita": 3,
+   "colore": "#0077b6",
+   "lat": 14.6,
+   "lng": 117.8,
+   "sommario": "Cina e Filippine di nuovo ai ferri corti a Scarborough Shoal.",
+   "numeri": [
+    [
+     "lug 2026",
+     "nuova installazione cinese"
+    ]
+   ],
+   "attori": "Cina · Filippine",
+   "retroscena": [
+    "L’installazione a Scarborough Shoal ha riacceso la tensione con Manila."
+   ],
+   "cronologia": [
+    [
+     "lug 2026",
+     "Installazione cinese a Scarborough Shoal"
+    ]
+   ],
+   "testimonianze": [],
+   "archivio": "Reportage dai pescatori filippini: archivi Al Jazeera e UN News.",
+   "fonti": [
+    [
+     "ACLED lug 2026",
+     "https://acleddata.com/update/asia-pacific-overview-july-2026"
+    ],
+    [
+     "CFR Tracker",
+     "https://www.cfr.org/global-conflict-tracker"
+    ]
+   ],
+   "tema": [
+    "#0aa6c9",
+    "#0c4a8a",
+    "#f5c542"
+   ]
+  },
+  {
+   "id": "gaza",
+   "nome": "Gaza e Cisgiordania",
+   "regione": "Asia occidentale",
+   "stato": "attivo",
+   "intensita": 4,
+   "colore": "#9d0208",
+   "lat": 31.4,
+   "lng": 34.4,
+   "sommario": "Raid continui nonostante i tentativi di tregua.",
+   "numeri": [
+    [
+     "≥5",
+     "palestinesi uccisi il 10 ott (fonti mediche locali)"
+    ]
+   ],
+   "attori": "Israele · Hamas",
+   "retroscena": [
+    "Hamas rifiuta il disarmo e Israele mantiene il controllo di ampie aree."
+   ],
+   "cronologia": [
+    [
+     "10 ott 2026",
+     "Raid israeliani: almeno cinque morti"
+    ]
+   ],
+   "testimonianze": [],
+   "archivio": "Testimonianze di operatori umanitari: ICRC e UN News.",
+   "fonti": [
+    [
+     "CFR Tracker",
+     "https://www.cfr.org/global-conflict-tracker"
+    ],
+    [
+     "Geneva Academy",
+     "https://www.geneva-academy.ch"
+    ],
+    [
+     "ICRC",
+     "https://www.icrc.org"
+    ]
+   ],
+   "tema": [
+    "#ce1126",
+    "#009736",
+    "#d9d9d9"
+   ]
+  },
+  {
+   "id": "iran",
+   "nome": "Iran",
+   "regione": "Asia occidentale",
+   "stato": "tensione",
+   "intensita": 3,
+   "colore": "#5f0f40",
+   "lat": 32.4,
+   "lng": 53.7,
+   "sommario": "Dopo gli attacchi di fine febbraio, la situazione resta instabile.",
+   "numeri": [
+    [
+     "28 feb",
+     "attacchi USA–Israele riportati"
+    ]
+   ],
+   "attori": "Iran · USA · Israele",
+   "retroscena": [
+    "Il dato dell’attacco proviene da una fonte secondaria: serve verifica con agenzie internazionali."
+   ],
+   "cronologia": [
+    [
+     "28 feb 2026",
+     "Attacchi riportati contro l’Iran"
+    ]
+   ],
+   "testimonianze": [],
+   "archivio": "Da verificare con fonti primarie.",
+   "fonti": [
+    [
+     "CFR Tracker",
+     "https://www.cfr.org/global-conflict-tracker"
+    ],
+    [
+     "Geneva Academy",
+     "https://www.geneva-academy.ch"
+    ]
+   ],
+   "tema": [
+    "#239f40",
+    "#da0000",
+    "#e8f2ea"
+   ]
+  }
+ ]
+}
